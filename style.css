@@ -1,0 +1,58 @@
+.logo img{
+    width: 195px;
+    height: 60px;
+}
+.color-1{
+    color: rgb(226, 133, 27);
+    font-size: 50px;
+    font-weight: bold;
+}
+.color-2{
+    color: rgb(50, 43, 70);
+    font-size: 50px;
+    font-weight: bold;
+}
+.new a{
+    transition: transform 1s ease-in-out .5s ;
+    color: black;
+  
+}
+.new a:hover{
+    transform: scale(1.2);
+    background-color: hotpink;
+   
+}
+.but-1 a{
+    width:150px;
+    height: 50px;
+    align-items: center;
+    margin-top: 10px;
+   transition: transform 1s ease-in-out .5s ;
+}
+.but-1 a:hover{
+    transform: scale(1.2);
+}
+.color-3{
+    color: rgb(50, 43, 70);
+    font-size: 40px;
+    font-weight: bold;
+}
+.color-4{
+    background-color: rgba(20, 19, 19, 0.137);
+    transition: transform 1s ease-in-out .5s;
+}
+.color-4:hover{
+    transform: scale(.8);
+}
+.color-5 h1{
+    color:rgb(207, 123, 43) ;
+}
+.color-6{
+    color: rgb(10, 10, 26);
+    font-size: 20px;
+    font-weight: bold;
+}
+.color-7{
+    color: rgb(5, 5, 63);
+    font-weight: bold;
+}
