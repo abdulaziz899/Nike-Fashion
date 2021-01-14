@@ -56,3 +56,25 @@
     color: rgb(5, 5, 63);
     font-weight: bold;
 }
+.color-8{
+    background-color: black;
+    color: white;
+}
+.color-9{
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+ 
+}
+.color-9 i{
+    transition: transform 2s ease-in-out .5s;
+}
+.color-9 i:hover{
+    transform: rotate(360deg) scale(1.5);
+}
+.color-10 {
+    transition: transform 2s ease-in-out .5s;
+}
+.color-10:hover{
+    transform: rotate(360deg) scale(.8);
+}
